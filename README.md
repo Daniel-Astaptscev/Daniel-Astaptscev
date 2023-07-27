@@ -11,17 +11,17 @@
 </tr>
 <tr style="height: 18px;">
 <th style="height: 18px; width: 15.2653%;">Languages:</th>
-<th style="height: 18px; width: 35.379%; text-align: center;"><img src="https://img.shields.io/badge/Python-blue?logo=python&amp;logoColor=F5F551&amp;style=for-the-badge" /></th>
+<th style="height: 18px; width: 35.379%; text-align: center;"><img src="https://img.shields.io/badge/Python-blue?logo=python&amp;logoColor=F5F551&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/Html5-blue?logo=html5&amp;logoColor=F5F551&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&amp;logoColor=F5F551&amp;style=for-the-badge" /> </th>
 <th style="width: 4.3437%;">&nbsp;</th>
 <th style="height: 18px; width: 8.9161%;">Languages:</th>
-<th style="height: 18px; width: 189.597%; text-align: center;"><img src="https://img.shields.io/badge/SQL-blue?logo=sql&amp;logoColor=F5F551&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/Html5-blue?logo=html5&amp;logoColor=F5F551&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&amp;logoColor=F5F551&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/JavaScript-blue?logo=javascript&amp;logoColor=F5F551&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/English-blue?logo=english&amp;logoColor=F5F551&amp;style=for-the-badge" /></th>
+<th style="height: 18px; width: 189.597%; text-align: center;"><img src="https://img.shields.io/badge/SQL-blue?logo=sql&amp;logoColor=F5F551&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/JavaScript-blue?logo=javascript&amp;logoColor=F5F551&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/English-blue?logo=english&amp;logoColor=F5F551&amp;style=for-the-badge" /></th>
 </tr>
 <tr style="height: 18px;">
-<th style="height: 18px; width: 15.2653%;">Tools:</th>
-<th style="height: 18px; width: 35.379%;"><img src="https://img.shields.io/badge/PyCharm-131311?logo=pycharm&amp;logoColor=white&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/GitHub-131311?logo=github&amp;logoColor=white&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/Jupyter-131311?logo=jupyter&amp;logoColor=white&amp;style=for-the-badge" /></th>
+<th style="height: 18px; width: 15.2653%;">Tools:</th> 
+<th style="height: 18px; width: 35.379%;"><img src="https://img.shields.io/badge/PyCharm-131311?logo=pycharm&amp;logoColor=white&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/GitHub-131311?logo=github&amp;logoColor=white&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/Jupyter-131311?logo=jupyter&amp;logoColor=white&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/Jira-131311?logo=jira&amp;logoColor=white&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/Visual Studio Code-131311?logo=Visual Studio Code&amp;logoColor=white&amp;style=for-the-badge" /></th>
 <th style="width: 4.3437%;">&nbsp;</th>
 <th style="height: 18px; width: 8.9161%;">Tools:</th>
-<th style="height: 18px; width: 189.597%;"><img src="https://img.shields.io/badge/Jira-131311?logo=jira&amp;logoColor=white&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/Kivy-131311?logo=android&amp;logoColor=white&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/Flask-131311?logo=Flask&amp;logoColor=white&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/Django-131311?logo=Django&amp;logoColor=white&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/Git-E5920B?logo=git&amp;logoColor=white&amp;style=for-the-badge" /></th>
+<th style="height: 18px; width: 189.597%;"><img src="https://img.shields.io/badge/Kivy-131311?logo=android&amp;logoColor=white&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/Flask-131311?logo=Flask&amp;logoColor=white&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/Django-131311?logo=Django&amp;logoColor=white&amp;style=for-the-badge" /> <img src="https://img.shields.io/badge/Git-E5920B?logo=git&amp;logoColor=white&amp;style=for-the-badge" /></th>
 </tr>
 <tr style="height: 18px;">
 <th style="height: 18px; width: 15.2653%;">Libraries:</th>
