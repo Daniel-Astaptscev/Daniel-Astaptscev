@@ -1,11 +1,10 @@
 <div align="center"><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/></div>
 <h1 align="center">Yo there, I'm Daniel</h1>
 
-<table>
 <body>
+  <table>
   <tr>
-    <th></th>
-    <th>Actively studying</th>
+    <th colspan="2">Actively studying</th>
   </tr>
   <tr>
     <th>Languages:</th>
@@ -17,6 +16,7 @@
       <img src="https://img.shields.io/badge/JavaScript-blue?logo=javascript&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/Php-blue?logo=php&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/English-blue?logo=english&amp;logoColor=white&amp;style=for-the-badge"/>
+    </th>
   </tr>
   <tr>
     <th>Tools:</th> 
@@ -28,6 +28,7 @@
       <img src="https://img.shields.io/badge/Visual Studio Code-2D797B?logo=Visual Studio Code&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Git-2D797B?logo=git&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Docker-2D797B?logo=docker&amp;logoColor=white&amp;style=for-the-badge"/>
+    </th>
   </tr>
     <tr>
     <th>Frameworks:</th> 
@@ -37,6 +38,7 @@
       <img src="https://img.shields.io/badge/Django-9A6FA5?logo=Django&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/PyGame-9A6FA5?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Bootstrap-9A6FA5?logo=Bootstrap&amp;logoColor=white&amp;style=for-the-badge"/>
+    </th>
   </tr>
   <tr>
     <th>Libraries:</th>
@@ -52,12 +54,14 @@
       <img src="https://img.shields.io/badge/SQLite3-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/MySQL-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Pandas-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
+    </th>
   <tr>
     <th>Education:</th>
     <th>
       <img src="https://img.shields.io/badge/Stepik-D29B79?logo=stepik&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/Stack Overflow-D29B79?logo=stackoverflow&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Codewars-D29B79?logo=codewars&amp;logoColor=white&amp;style=for-the-badge"/>   
+    </th>
   </tr>
   <tr>   
     <th>OS:</th>
@@ -65,6 +69,59 @@
       <img src="https://img.shields.io/badge/Windows-CE6490?logo=windows&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/VirtualBox-CE6490?logo=VirtualBox&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Linux Ubuntu-CE6490?logo=linux&amp;logoColor=white&amp;style=for-the-badge"/>
+    </th>
   </tr>
+    </table>
+  
+  <table>
+    <tr>
+      <th colspan="2">Certificates for Stepik</th>
+    </tr>
+    <tr>
+      <th>Python</th>
+      <th>Html & CSS</th>
+    </tr>
+    <tr>
+      <th rowspan="2"><a href="https://stepik.org/cert/1994514?lang=en">Python Developer</a><br>
+        <a href="https://stepik.org/cert/2054494?lang=en">Python Programming</a><br>
+        <a href="https://stepik.org/cert/1951583?lang=en">Python Generation: a course for beginners</a><br>
+        <a href="https://stepik.org/cert/2081329?lang=en">Python Generation: a course for advanced</a>
+
+
+        
+      </th>
+      
+      <th><a href="https://stepik.org/cert/2143609?lang=en">Web development for beginners: Html and CSS</a></th>
+      <th><a href="https://stepik.org/cert/2284941?lang=en">Indie course on Html and CSS</a></th>
+ 
+
+    <tr>
+      <th><a href="https://stepik.org/cert/1938664?lang=en">The first Python programs</a></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th><a href="https://stepik.org/cert/2051909?lang=en">Indie Python Programming Course</a></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th><a href="https://stepik.org/cert/2123425?lang=en">Python: development from scratch</a></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th><a href="https://stepik.org/cert/2099455?lang=en">Full Python 3 course: from beginner to master</a></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th><a href="https://stepik.org/cert/2090526?lang=en">Good, kind Python - a training course from Sergey Balakirev</a></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th><a href="https://stepik.org/cert/2287523?lang=en">Python: algorithms and data structures</a></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th><a href="https://stepik.org/cert/2157853?lang=en">Python Basic: tests and tasks - checking your knowledge</a></th>
+      <th></th>
+    </tr>
 </body>
 </table>
