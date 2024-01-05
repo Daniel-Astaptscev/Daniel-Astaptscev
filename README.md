@@ -82,46 +82,21 @@
       <th>Html & CSS</th>
     </tr>
     <tr>
-      <th rowspan="2"><a href="https://stepik.org/cert/1994514?lang=en">Python Developer</a><br>
+      <th rowspan="11"><a href="https://stepik.org/cert/1994514?lang=en">Python Developer</a><br>
         <a href="https://stepik.org/cert/2054494?lang=en">Python Programming</a><br>
         <a href="https://stepik.org/cert/1951583?lang=en">Python Generation: a course for beginners</a><br>
-        <a href="https://stepik.org/cert/2081329?lang=en">Python Generation: a course for advanced</a>
-
-
-        
+        <a href="https://stepik.org/cert/2081329?lang=en">Python Generation: a course for advanced</a><br>
+        <a href="https://stepik.org/cert/1938664?lang=en">The first Python programs</a><br>
+        <a href="https://stepik.org/cert/2051909?lang=en">Indie Python Programming Course</a><br>
+        <a href="https://stepik.org/cert/2123425?lang=en">Python: development from scratch</a><br>
+        <a href="https://stepik.org/cert/2099455?lang=en">Full Python 3 course: from beginner to master</a><br>
+        <a href="https://stepik.org/cert/2090526?lang=en">Good, kind Python - a training course from Sergey Balakirev</a><br>
+        <a href="https://stepik.org/cert/2287523?lang=en">Python: algorithms and data structures</a><br>
+        <a href="https://stepik.org/cert/2157853?lang=en">Python Basic: tests and tasks - checking your knowledge</a><br>
       </th>
-      
-      <th><a href="https://stepik.org/cert/2143609?lang=en">Web development for beginners: Html and CSS</a></th>
-      <th><a href="https://stepik.org/cert/2284941?lang=en">Indie course on Html and CSS</a></th>
- 
-
-    <tr>
-      <th><a href="https://stepik.org/cert/1938664?lang=en">The first Python programs</a></th>
-      <th></th>
-    </tr>
-    <tr>
-      <th><a href="https://stepik.org/cert/2051909?lang=en">Indie Python Programming Course</a></th>
-      <th></th>
-    </tr>
-    <tr>
-      <th><a href="https://stepik.org/cert/2123425?lang=en">Python: development from scratch</a></th>
-      <th></th>
-    </tr>
-    <tr>
-      <th><a href="https://stepik.org/cert/2099455?lang=en">Full Python 3 course: from beginner to master</a></th>
-      <th></th>
-    </tr>
-    <tr>
-      <th><a href="https://stepik.org/cert/2090526?lang=en">Good, kind Python - a training course from Sergey Balakirev</a></th>
-      <th></th>
-    </tr>
-    <tr>
-      <th><a href="https://stepik.org/cert/2287523?lang=en">Python: algorithms and data structures</a></th>
-      <th></th>
-    </tr>
-    <tr>
-      <th><a href="https://stepik.org/cert/2157853?lang=en">Python Basic: tests and tasks - checking your knowledge</a></th>
-      <th></th>
+      <th rowspan="2"><a href="https://stepik.org/cert/2143609?lang=en">Web development for beginners: Html and CSS</a><br>
+      <a href="https://stepik.org/cert/2284941?lang=en">Indie course on Html and CSS</a>
+      </th>
     </tr>
 </body>
 </table>
