@@ -98,5 +98,14 @@
       <a href="https://stepik.org/cert/2284941?lang=en">Indie course on Html and CSS</a>
       </th>
     </tr>
+    </table>
+    
+      <table>
+    <tr>
+      <th>My Projects</th>
+    </tr>
+    <tr>
+      <th><a href="https://polimari.ru/">Website: Polimari.ru</a>
+    </tr>
+    </table>
 </body>
-</table>
