@@ -72,7 +72,16 @@
     </th>
   </tr>
     </table>
-  
+
+  <table>
+      <tr>
+        <th>My Projects</th>
+      </tr>
+      <tr>
+        <th><a href="https://polimari.ru/">Website: Polimari.ru</a></th>
+      </tr>
+    </table>
+    
   <table>
     <tr>
       <th colspan="2">Certificates for Stepik</th>
@@ -97,15 +106,6 @@
       <th rowspan="2"><a href="https://stepik.org/cert/2143609?lang=en">Web development for beginners: Html and CSS</a><br>
       <a href="https://stepik.org/cert/2284941?lang=en">Indie course on Html and CSS</a>
       </th>
-    </tr>
-    </table>
-    
-      <table>
-    <tr>
-      <th>My Projects</th>
-    </tr>
-    <tr>
-      <th><a href="https://polimari.ru/">Website: Polimari.ru</a>
     </tr>
     </table>
 </body>
