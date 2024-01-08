@@ -78,7 +78,7 @@
         <th>My Projects</th>
       </tr>
       <tr>
-        <th><a href="https://polimari.ru/">Website: Polimari.ru</a></th>
+        <th><a href="https://polimari.ru/"><img src="https://img.shields.io/badge/Polimari.ru-348D3B?logo=Html5&amp;logoColor=white&amp;style=for-the-badge"/></a></th>
       </tr>
     </table>
     
