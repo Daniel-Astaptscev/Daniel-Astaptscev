@@ -71,10 +71,7 @@
       <img src="https://img.shields.io/badge/Linux Ubuntu-CE6490?logo=linux&amp;logoColor=white&amp;style=for-the-badge"/>
     </th>
   </tr>
-    </table>
-
-  <table>
-      <tr>
+    <tr>
         <th colspan="2">My Projects</th>
       </tr>
       <tr>
