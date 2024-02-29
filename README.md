@@ -68,7 +68,7 @@
     <td>
       <img src="https://img.shields.io/badge/Windows-CE6490?logo=windows&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/VirtualBox-CE6490?logo=VirtualBox&amp;logoColor=white&amp;style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Linux Ubuntu-CE6490?logo=linux&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Linux Debian-CE6490?logo=linux&amp;logoColor=white&amp;style=for-the-badge"/>
     </td>
   </tr>
 </table>
