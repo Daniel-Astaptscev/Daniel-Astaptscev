@@ -108,7 +108,7 @@
       </th>
       <th>
         <a href="https://github.com/Daniel-Astaptscev/Program-Temperature/" target="_blank"><img src="https://img.shields.io/badge/Temperature-543964?logo=Python&amp;logoColor=white&amp;style=for-the-badge"/></a>
-        <a href="https://github.com/Daniel-Astaptscev/Mini-Pets" target="_blank"><img src="https://img.shields.io/badge/Mini-Pets-543964?logo=Python&amp;logoColor=white&amp;style=for-the-badge"/></a>
+        <a href="https://github.com/Daniel-Astaptscev/Mini-Pets" target="_blank"><img src="https://img.shields.io/badge/Mini_Pets-543964?logo=Python&amp;logoColor=white&amp;style=for-the-badge"/></a>
       </th>
     </tr>
   </table>
