@@ -80,7 +80,7 @@
       <img src="https://img.shields.io/badge/Flask-9A6FA5?logo=Flask&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/Django-9A6FA5?logo=Django&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/PyGame-9A6FA5?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/PyQt-9A6FA5?logo=pyqt&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/PyQt-9A6FA5?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
     </td>
   </tr>
   <tr>
