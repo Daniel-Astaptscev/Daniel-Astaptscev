@@ -22,6 +22,8 @@
       <img src="https://img.shields.io/badge/GitHub-2D797B?logo=github&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/Jira-2D797B?logo=jira&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/Visual Studio Code-2D797B?logo=Visual Studio Code&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Poetry-2D797B?logo=poetry&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Typing-2D797B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
     </td>
   </tr>
     <tr>
@@ -39,12 +41,14 @@
       <img src="https://img.shields.io/badge/Random-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Calendar-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Datetime-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Selenium-348D3B?logo=selenium&amp;logoColor=white&amp;style=for-the-badge"/>
     </td>
   <tr>
     <th>Education:</th>
     <td>
       <img src="https://img.shields.io/badge/Stepik-D29B79?logo=stepik&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/Stack Overflow-D29B79?logo=stackoverflow&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Изучаем Python: Лутц Марк-D29B79?logo=book&amp;logoColor=white&amp;style=for-the-badge"/>
     </td>
   </tr>
   <tr>   
@@ -72,6 +76,12 @@
       <img src="https://img.shields.io/badge/Jupyter-2D797B?logo=jupyter&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Git-2D797B?logo=git&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Docker-2D797B?logo=docker&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/PgAdmin 4-2D797B?logo=PostgreSQL&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/pdb-2D797B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Redis-2D797B?logo=redis&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-2D797B?logo=SQLAlchemy&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-2D797B?logo=PostgreSQL&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/PySide2-2D797B?logo=qt&amp;logoColor=white&amp;style=for-the-badge"/>
     </td>
   </tr>
     <tr>
@@ -80,7 +90,8 @@
       <img src="https://img.shields.io/badge/Flask-9A6FA5?logo=Flask&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/Django-9A6FA5?logo=Django&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/PyGame-9A6FA5?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/PyQt-9A6FA5?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/PyQt-9A6FA5?logo=qt&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/FastAPI-9A6FA5?logo=fastapi&amp;logoColor=white&amp;style=for-the-badge"/>
     </td>
   </tr>
   <tr>
@@ -88,11 +99,12 @@
     <td>
       <img src="https://img.shields.io/badge/Itertools-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Bisect-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Numpy-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/> 
-      <img src="https://img.shields.io/badge/Selenium-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/SQLite3-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/> 
+      <img src="https://img.shields.io/badge/Numpy-348D3B?logo=numpy&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/MySQL-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Pandas-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Pandas-348D3B?logo=pandas&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Pydantic-348D3B?logo=pydantic&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Pyjwt-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Asyncio-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
     </td>
   <tr>
     <th>Education:</th>
