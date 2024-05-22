@@ -82,6 +82,7 @@
       <img src="https://img.shields.io/badge/SQLAlchemy-2D797B?logo=SQLAlchemy&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/PostgreSQL-2D797B?logo=PostgreSQL&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/PySide2-2D797B?logo=qt&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/HTTP-2D797B?logo=html5&amp;logoColor=white&amp;style=for-the-badge"/>
     </td>
   </tr>
     <tr>
