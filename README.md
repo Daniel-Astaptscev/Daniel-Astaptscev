@@ -106,6 +106,7 @@
       <img src="https://img.shields.io/badge/Pydantic-348D3B?logo=pydantic&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Pyjwt-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Asyncio-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Jinja2-348D3B?logo=Jinja&amp;logoColor=white&amp;style=for-the-badge"/>
     </td>
   <tr>
     <th>Education:</th>
