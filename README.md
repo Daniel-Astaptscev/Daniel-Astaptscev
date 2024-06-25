@@ -151,6 +151,7 @@
       <th>
         <a href="https://polimari.ru/" target="_blank"><img src="https://img.shields.io/badge/Polimari.ru-102C54?logo=Html5&amp;logoColor=white&amp;style=for-the-badge"/></a>
         <a href="https://tilit63.ru/" target="_blank"><img src="https://img.shields.io/badge/Tilit63.ru-102C54?logo=Html5&amp;logoColor=white&amp;style=for-the-badge"/></a>
+        <a href="https://xn--80anehlwoh.xn--p1ai/" target="_blank"><img src="https://img.shields.io/badge/Закрутим.рф-102C54?logo=Html5&amp;logoColor=white&amp;style=for-the-badge"/></a>
       </th>
       <th>
         <a href="https://github.com/Daniel-Astaptscev/Program-Temperature/" target="_blank"><img src="https://img.shields.io/badge/Temperature-543964?logo=Python&amp;logoColor=white&amp;style=for-the-badge"/></a>
