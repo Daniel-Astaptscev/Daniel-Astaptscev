@@ -154,7 +154,7 @@
         <a href="https://xn--80anehlwoh.xn--p1ai/" target="_blank"><img src="https://img.shields.io/badge/Закрутим.рф-102C54?logo=Html5&amp;logoColor=white&amp;style=for-the-badge"/></a>
       </th>
       <th>
-        <a href="https://github.com/Daniel-Astaptscev/Personal-assistant" target="_blank"><img src="https://img.shields.io/badge/Personal-assistant-543964?logo=Python&amp;logoColor=white&amp;style=for-the-badge"/>
+        <a href="https://github.com/Daniel-Astaptscev/Personal-assistant" target="_blank"><img src="https://img.shields.io/badge/Personal_Assistant-543964?logo=Python&amp;logoColor=white&amp;style=for-the-badge"/>
         <a href="https://github.com/Daniel-Astaptscev/Program-Temperature/" target="_blank"><img src="https://img.shields.io/badge/Temperature-543964?logo=Python&amp;logoColor=white&amp;style=for-the-badge"/></a>
         <a href="https://github.com/Daniel-Astaptscev/Mini-Pets" target="_blank"><img src="https://img.shields.io/badge/Mini_Pets-543964?logo=Python&amp;logoColor=white&amp;style=for-the-badge"/></a>
       </th>
