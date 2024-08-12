@@ -4,19 +4,19 @@
 <body>
   <table>
   <tr>
-    <th colspan="2"># # # Completed projects # # #</th>
+    <th colspan="4"># # # Completed projects # # #</th>
   </tr>
   <tr>
-    <th>Projects:</th>
-    <th>Tools:</th>
+    <th colspan="2">Projects:</th>
+    <th colspan="2">Tools:</th>
   </tr>
   <tr>
-    <td>
+    <td colspan="3">
       <a href="https://tilit63.ru/" target="_blank">Website: tilit63.ru</a><br>
       <a href="https://xn--80anehlwoh.xn--p1ai/" target="_blank">Website: закрутим.рф</a><br>
       <a href="https://polimari.ru/" target="_blank">Website: polimari.ru</a>
     </td>
-    <td>
+    <td colspan="1">
       <img src="https://img.shields.io/badge/Visual Studio Code-2D797B?logo=Visual studio code&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Bootstrap 5-9A6FA5?logo=Bootstrap&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Html5-blue?logo=html5&amp;logoColor=white&amp;style=for-the-badge"/> 
@@ -26,10 +26,10 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="3">
       <a href="https://github.com/Daniel-Astaptscev/Personal-assistant" target="_blank">Personal Assistant</a>
     </td>
-    <td>
+    <td colspan="1">
       <img src="https://img.shields.io/badge/PyCharm-2D797B?logo=pycharm&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/GitHub-2D797B?logo=github&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/Markdown-blue?logo=Markdown&amp;logoColor=white&amp;style=for-the-badge"/>
@@ -49,10 +49,10 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="3">
       <a href="https://github.com/Daniel-Astaptscev/Mini-Pets" target="_blank">Mini Pets</a>
     </td>
-    <td>
+    <td colspan="1">
       <img src="https://img.shields.io/badge/PyCharm-2D797B?logo=pycharm&amp;logoColor=white&amp;style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Python-blue?logo=python&amp;logoColor=white&amp;style=for-the-badge"/> 
       <img src="https://img.shields.io/badge/Tkinter-348D3B?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
