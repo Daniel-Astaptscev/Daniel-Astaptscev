@@ -4,7 +4,7 @@
 <body>
   <table>
   <tr>
-    <th colspan="2">Completed projects</th>
+    <th colspan="2"># # # Completed projects # # #</th>
   </tr>
   <tr>
     <th>Projects:</th>
@@ -12,9 +12,9 @@
   </tr>
   <tr>
     <td>
-      <a href="https://tilit63.ru/" target="_blank">tilit63.ru</a><br>
-      <a href="https://xn--80anehlwoh.xn--p1ai/" target="_blank">закрутим.рф</a><br>
-      <a href="https://polimari.ru/" target="_blank">polimari.ru</a>
+      <a href="https://tilit63.ru/" target="_blank">Website: tilit63.ru</a><br>
+      <a href="https://xn--80anehlwoh.xn--p1ai/" target="_blank">Website: закрутим.рф</a><br>
+      <a href="https://polimari.ru/" target="_blank">Website: polimari.ru</a>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Visual Studio Code-2D797B?logo=Visual studio code&amp;logoColor=white&amp;style=for-the-badge"/>
@@ -62,7 +62,7 @@
 
 <table>
   <tr>
-    <th colspan="2">Active projects</th>
+    <th colspan="2"># # # Active projects # # #</th>
   </tr>
   <tr>
     <th>Projects:</th>
@@ -127,7 +127,7 @@
 
 <table>
   <tr>
-    <th colspan="2">Studying and using</th>
+    <th colspan="2"># # # Studying and using # # #</th>
   </tr>
   <tr>
     <td>
@@ -155,7 +155,7 @@
     
   <table>
     <tr>
-      <th colspan="2">Certificates for Stepik</th>
+      <th colspan="2"># # # Certificates for Stepik # # #</th>
     </tr>
     <tr>
       <th>Python</th>
