@@ -42,7 +42,7 @@ My name is Daniel. I'm a beginner full stack developer...
 
 ## 📝 Activity on GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Astaptscev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Astaptscev)](https://github.com/Daniel-Astaptscev/github-readme-stats)
 
 ## 👨‍🎓 Activity on Leetcode & on Codewars 
 
