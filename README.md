@@ -47,14 +47,14 @@ My name is Daniel. I'm a beginner full stack developer...
 
 | Title             | Status |Repository                                                                |
 | ----------------- | ---------------------|--------------------------------------------- |
-| Personal Assistant | 🔴  | link |
+| Personal Assistant | 🔴  | <a href="https://github.com/Daniel-Astaptscev/Personal-assistant">link</a> |
 | REST-service Pet | 🟡 | link |
 | Pet Selenium | 🟡 | link |
 | Library catalogue | 🔵 | link |
-| tilit63.ru | 🟢 | link |
-| закрутим.рф | 🟢 | link |
-| polimari.ru | 🟢 | link |
-| Mini Pets | 🟢 | link |
+| tilit63.ru | 🟢 | <a href="https://tilit63.ru/">link</a> |
+| закрутим.рф | 🟢 | <a href="https://xn--80anehlwoh.xn--p1ai/">link</a> |
+| polimari.ru | 🟢 | <a href="https://polimari.ru/">link</a> |
+| Mini Pets | 🟢 | <a href="https://github.com/Daniel-Astaptscev/Mini-Pets">link</a> |
 
 #### Legend
 
@@ -80,8 +80,8 @@ My name is Daniel. I'm a beginner full stack developer...
 
 [![portfolio](https://img.shields.io/badge/Stepik-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://stepik.org/users/528102007/profile) 
 [![gmail](https://img.shields.io/badge/gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![leetcode](https://img.shields.io/badge/Leetcode-0A66C2?style=for-the-badge&logo=Leetcode&logoColor=white)]()
-[![codewars](https://img.shields.io/badge/codewars-0A66C2?style=for-the-badge&logo=codewars&logoColor=white)]()
+[![leetcode](https://img.shields.io/badge/Leetcode-0A66C2?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/daniel-astaptscev/)
+[![codewars](https://img.shields.io/badge/codewars-0A66C2?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Daniel-Astaptscev)
 
 ## ⁉️ FAQ
 
