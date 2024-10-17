@@ -46,7 +46,7 @@ My name is Daniel. I'm a beginner full stack developer...
 
 ## 👨‍🎓 Activity on Leetcode & on Codewars 
 
-[![Leetcode Stats](https://leetcard.daniel-astaptscev/daniel-astaptscev)](https://leetcode.com/daniel-astaptscev)
+[![Leetcode Stats](https://leetcard.daniel.astaptscev/daniel-astaptscev)](https://leetcode.com/daniel-astaptscev)
 
 *Codewars* 
 
