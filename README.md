@@ -5,11 +5,26 @@ My name is Daniel. I'm a beginner full stack developer...
 
 ## 🛠 Language & Tools
 
-Сделать логотипы всех: 📋 Language Python 📋 Language SQL 📋 Language 1C
-📋 Language HTML5 📋 Language CSS3 📋 Linux Debian
-📋 Git 📋 Docker 📋 FastAPI 📋 Pydantic 📋 GSAP
-📋 Flask 📋 PyQT6 📋 Bootstrap 5 📋 Pandas
-📋 Numpy 📋 KivyMD 📋 Selenium 📋 VirtualBox 📋 stackoverflow 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+</div>
 
 ## 📊 Training statistics
 
@@ -44,7 +59,7 @@ My name is Daniel. I'm a beginner full stack developer...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Astaptscev)](https://github.com/Daniel-Astaptscev/github-readme-stats)
 
-## 👨‍🎓 Activity on Leetcode & on Codewars 
+## 🔥 Activity on Leetcode & on Codewars 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool//daniel-astaptscev)](https://leetcode.com/daniel-astaptscev)
 
