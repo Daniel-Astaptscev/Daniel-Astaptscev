@@ -39,8 +39,8 @@ My name is Daniel. I'm a beginner full stack developer...
 ## 📊 Training statistics
 
 [![Сourses](https://img.shields.io/badge/Получено_сертификатов_в_ходе_курсов-31-green.svg)]()
-[![Сourses](https://img.shields.io/badge/Пройдено_курсов_без_сертификатов-5-green.svg)]()
-[![Youtube](https://img.shields.io/badge/Просмотрено_видео_на_YouTube-0-yellow.svg)]()
+[![Сourses](https://img.shields.io/badge/Пройдено_курсов_без_сертификатов-5-yellow.svg)]()
+[![Youtube](https://img.shields.io/badge/Просмотрено_видео_на_YouTube-0-red.svg)]()
 [![Book](https://img.shields.io/badge/Прочитано_обучающих_книг-1-blue.svg)]()
 
 ## 👨‍🏫 My projects:
