@@ -47,23 +47,23 @@ My name is Daniel. I'm a beginner full stack developer...
 
 | Title             | Status |Repository                                                                |
 | ----------------- | ---------------------|--------------------------------------------- |
-| Personal Assistant | 🔴  | <a href="https://github.com/Daniel-Astaptscev/Personal-assistant">link</a> |
-| REST-service Pet | 🟡 | link |
-| Pet Selenium | 🟡 | link |
-| Library catalogue | 🔵 | link |
-| tilit63.ru | 🟢 | <a href="https://tilit63.ru/">link</a> |
-| закрутим.рф | 🟢 | <a href="https://xn--80anehlwoh.xn--p1ai/">link</a> |
-| polimari.ru | 🟢 | <a href="https://polimari.ru/">link</a> |
-| Mini Pets | 🟢 | <a href="https://github.com/Daniel-Astaptscev/Mini-Pets">link</a> |
+| Personal Assistant | 📕  | <a href="https://github.com/Daniel-Astaptscev/Personal-assistant">link</a> |
+| REST-service Pet | 📙 | link |
+| Pet Selenium | 📙 | link |
+| Library catalogue | 📘 | link |
+| tilit63.ru | 📗 | <a href="https://tilit63.ru/">link</a> |
+| закрутим.рф | 📗 | <a href="https://xn--80anehlwoh.xn--p1ai/">link</a> |
+| polimari.ru | 📗 | <a href="https://polimari.ru/">link</a> |
+| Mini Pets | 📗 | <a href="https://github.com/Daniel-Astaptscev/Mini-Pets">link</a> |
 
 #### Legend
 
 | Symbol | Description         |
 | :-------- | :------------------------- |
-| 🟢 |  Проект выполнен и закрыт |
-| 🔵 |  Проект находится в статусе разработки |
-| 🟡 |  Проект запланирован |
-| 🔴 |  В проекте имеются ошибки |
+| 📗 |  Проект выполнен и закрыт |
+| 📘 |  Проект находится в статусе разработки |
+| 📙 |  Проект запланирован |
+| 📕 |  В проекте имеются ошибки |
 
 ## 📝 Activity on GitHub
 
