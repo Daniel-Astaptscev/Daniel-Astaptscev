@@ -69,11 +69,19 @@ My name is Daniel. I'm a beginner full stack developer...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Astaptscev)](https://github.com/Daniel-Astaptscev/github-readme-stats)
 
+
 ## 🔥 Activity on Leetcode & on Codewars 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool//daniel-astaptscev)](https://leetcode.com/daniel-astaptscev)
 
 [![codewars](https://www.codewars.com/users/Daniel-Astaptscev/badges/large)](https://www.codewars.com/users/Daniel-Astaptscev)
+
+
+## ✍ My Logs with solutions:
+
+| Symbol | Description         |
+| :-------- | :------------------------- |
+| Leetcode & Codewars | <a href="https://github.com/Daniel-Astaptscev/Logs-with-solutions">link</a> |
 
 
 ## 📌 Links
