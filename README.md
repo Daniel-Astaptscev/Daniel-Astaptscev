@@ -79,7 +79,7 @@ My name is Daniel. I'm a beginner full stack developer...
 
 ## ✍ My Logs with solutions:
 
-| Symbol | Description         |
+| Title | Repository         |
 | :-------- | :------------------------- |
 | Leetcode & Codewars | <a href="https://github.com/Daniel-Astaptscev/Logs-with-solutions">link</a> |
 
