@@ -45,16 +45,16 @@ My name is Daniel. I'm a beginner full stack developer...
 
 ## 👨‍🏫 My projects:
 
-| Title             | Status |Repository                                                                |
-| ----------------- | ---------------------|--------------------------------------------- |
-| Personal Assistant | 📕  | <a href="https://github.com/Daniel-Astaptscev/Personal-assistant">link</a> |
-| REST-service Pet | 📙 | link |
-| Pet Selenium | 📙 | link |
-| Library catalogue | 📘 | link |
-| tilit63.ru | 📗 | <a href="https://tilit63.ru/">link</a> |
-| закрутим.рф | 📗 | <a href="https://xn--80anehlwoh.xn--p1ai/">link</a> |
-| polimari.ru | 📗 | <a href="https://polimari.ru/">link</a> |
-| Mini Pets | 📗 | <a href="https://github.com/Daniel-Astaptscev/Mini-Pets">link</a> |
+| Title             | Status |Repository    |   Main directions                                                         |
+| ----------------- | ---------------------|--------------------------------|-------------------------------------------- |
+| Personal Assistant | 📕  | <a href="https://github.com/Daniel-Astaptscev/Personal-assistant">link</a> | |
+| REST-service Pet | 📙 | link | |
+| Pet Selenium | 📙 | link | |
+| Library catalogue | 📘 | link | |
+| tilit63.ru | 📗 | <a href="https://github.com/Daniel-Astaptscev/Website-Tilit63.ru">link</a> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Flutter" alt="Flutter" width="36" height="36"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Flutter" alt="Flutter" width="36" height="36"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Flutter" alt="Flutter" width="36" height="36"/>&nbsp; |
+| закрутим.рф | 📗 | <a href="https://github.com/Daniel-Astaptscev/Website-xn--80anehlwoh.xn--p1ai">link</a> | |
+| polimari.ru | 📗 | <a href="https://github.com/Daniel-Astaptscev/Website-Polimari.ru">link</a> | |
+| Mini Pets | 📗 | <a href="https://github.com/Daniel-Astaptscev/Mini-Pets">link</a> | |
 
 #### Legend
 
