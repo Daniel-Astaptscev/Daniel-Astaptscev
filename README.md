@@ -51,7 +51,7 @@ My name is Daniel. I'm a beginner full stack developer...
 | REST-service Pet | 📙 | link | |
 | Pet Selenium | 📙 | link | |
 | Library catalogue | 📘 | link | |
-| tilit63.ru | 📗 | <a href="https://github.com/Daniel-Astaptscev/Website-Tilit63.ru">link</a> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Flutter" alt="Flutter" width="36" height="36"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Flutter" alt="Flutter" width="36" height="36"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Flutter" alt="Flutter" width="36" height="36"/>&nbsp; |
+| tilit63.ru | 📗 | <a href="https://github.com/Daniel-Astaptscev/Website-Tilit63.ru">link</a> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp; |
 | закрутим.рф | 📗 | <a href="https://github.com/Daniel-Astaptscev/Website-xn--80anehlwoh.xn--p1ai">link</a> | |
 | polimari.ru | 📗 | <a href="https://github.com/Daniel-Astaptscev/Website-Polimari.ru">link</a> | |
 | Mini Pets | 📗 | <a href="https://github.com/Daniel-Astaptscev/Mini-Pets">link</a> | |
