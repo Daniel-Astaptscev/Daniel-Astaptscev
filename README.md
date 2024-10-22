@@ -34,6 +34,7 @@ My name is Daniel. I'm a beginner full stack developer...
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 </div>
 
 ## 📊 Training statistics
@@ -49,6 +50,7 @@ My name is Daniel. I'm a beginner full stack developer...
 | ----------------- | ---------------------|--------------------------------|-------------------------------------------- |
 | Personal Assistant | 📕  | <a href="https://github.com/Daniel-Astaptscev/Personal-assistant">link</a> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp; |
 | VolText | 📙 | link | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp; |
+| Sex fetishes | 📙 | link | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp; |
 | REST-service Pet | 📙 | link | |
 | Pet Selenium | 📙 | link | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp; |
 | Library catalogue | 📘 | link | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp; |
