@@ -41,8 +41,26 @@ My name is Daniel. I'm a beginner full stack developer...
 
 [![Сourses](https://img.shields.io/badge/Получено_сертификатов_в_ходе_курсов-31-green.svg)]()
 [![Сourses](https://img.shields.io/badge/Пройдено_курсов_без_сертификатов-5-yellow.svg)]()
-[![Youtube](https://img.shields.io/badge/Просмотрено_видео_на_YouTube-7-red.svg)]()
+[![Youtube](https://img.shields.io/badge/Просмотрено_видео_на_YouTube-8-red.svg)]()
 [![Book](https://img.shields.io/badge/Прочитано_обучающих_книг-1-blue.svg)]()
+
+#### Сертификаты курсов: 
+
+ - [Stepik profile](https://stepik.org/users/528102007/profile)
+
+#### Видео на YouTube:
+
+ - [Python курс 15 часов](https://www.youtube.com/watch?v=cfJrtx-k96U&t=52242s)
+ - [CSS3 курс 3 часа](https://www.youtube.com/watch?v=1X8FNuy32ZM&t=11527s)
+ - [HTML5 курс 3 часа](https://www.youtube.com/watch?v=W4MIiV4nZDY)
+ - [Деплой веб-приложения](https://www.youtube.com/watch?v=uLp-zgset00)
+ - [CSS3 основы, курс 3 часа](https://www.youtube.com/watch?v=WpridlBQmdk&t=4227s)
+ - [Python Poetry замена pip](https://www.youtube.com/watch?v=KOC0Gbo_0HY)
+
+#### Книги:
+
+ - Марк Лутц "Изучаем Python Том 1, 5-е издание"
+
 
 ## 👨‍🏫 My projects:
 
