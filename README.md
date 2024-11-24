@@ -47,7 +47,7 @@ My name is Daniel. I'm a beginner full stack developer...
 #### Сертификаты курсов: 
 
  - [Stepik profile](https://stepik.org/users/528102007/profile)
- - [SQL Academy]()
+ - [SQL Academy](https://sql-academy.org/ru/profile/165550)
 
 #### Видео на YouTube:
 
