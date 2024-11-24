@@ -39,14 +39,15 @@ My name is Daniel. I'm a beginner full stack developer...
 
 ## 📊 Training statistics
 
-[![Сourses](https://img.shields.io/badge/Получено_сертификатов_в_ходе_курсов-31-green.svg)]()
+[![Сourses](https://img.shields.io/badge/Получено_сертификатов_в_ходе_курсов-32-green.svg)]()
 [![Сourses](https://img.shields.io/badge/Пройдено_курсов_без_сертификатов-5-yellow.svg)]()
-[![Youtube](https://img.shields.io/badge/Просмотрено_видео_на_YouTube-8-red.svg)]()
+[![Youtube](https://img.shields.io/badge/Просмотрено_видео_на_YouTube-10-red.svg)]()
 [![Book](https://img.shields.io/badge/Прочитано_обучающих_книг-1-blue.svg)]()
 
 #### Сертификаты курсов: 
 
  - [Stepik profile](https://stepik.org/users/528102007/profile)
+ - [SQL Academy]()
 
 #### Видео на YouTube:
 
@@ -56,6 +57,8 @@ My name is Daniel. I'm a beginner full stack developer...
  - [Деплой веб-приложения](https://www.youtube.com/watch?v=uLp-zgset00)
  - [CSS3 основы, курс 3 часа](https://www.youtube.com/watch?v=WpridlBQmdk&t=4227s)
  - [Python Poetry замена pip](https://www.youtube.com/watch?v=KOC0Gbo_0HY)
+ - [Вся база SQL для начинающих за 1 час](https://www.youtube.com/watch?v=5sG9kmXYsKU&t=10s)
+ - [Все, что нужно знать в SQL для аналитики](https://www.youtube.com/watch?v=Zf8M3xJaMEc)
 
 #### Книги:
 
