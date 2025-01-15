@@ -98,7 +98,7 @@ My name is Daniel. I'm a beginner full stack developer...
 
 ## 🔥 Activity on Leetcode & on Codewars 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool//daniel-astaptscev)](https://leetcode.com/daniel-astaptscev)
+![Leetcode Stats](https://leetcard.jacoblin.cool/daniel-astaptscev)
 
 [![codewars](https://www.codewars.com/users/Daniel-Astaptscev/badges/large)](https://www.codewars.com/users/Daniel-Astaptscev)
 
