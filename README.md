@@ -4,11 +4,11 @@ My name is Daniel. I'm a beginner full stack developer...
 
 ## 👨‍🏫 My projects:
 
-| Title             | Status |Repository    |   Year                                                        |
-| ----------------- | ---------------------|--------------------------------|-------------------------------------------- |
-| PocketDraft | 📘 | <a href="https://github.com/Daniel-Astaptscev/Library-catalogue">link</a> | 2026 |
-| Codexia | 📙 | <a href="https://github.com/Daniel-Astaptscev/Mini-Pets">link</a> | 2026 |
-| Satvision Assistant | 📘 | <a href="https://github.com/Daniel-Astaptscev/Mini-Pets">link</a> | 2025-2026 |
+| Title             | Status |Repository    | Version     |    Year                                                        |
+| ----------------- | ---------------------|---------------------|--------------------------------|-------------------------------------------- |
+| PocketDraft | 📘 | <a href="https://github.com/Daniel-Astaptscev/Library-catalogue">link</a> | v1.0.2 | 2026 |
+| Codexia | 📙 | <a href="https://github.com/Daniel-Astaptscev/Mini-Pets">link</a> | v1.0.0 | 2026 |
+| Satvision Assistant | 📘 | <a href="https://github.com/Daniel-Astaptscev/Mini-Pets">link</a> | v2.8.0 | 2025-2026 |
 
 #### Legend
 
